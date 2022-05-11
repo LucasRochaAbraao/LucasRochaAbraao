@@ -1,12 +1,12 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="imagem de linguagens" /></p>
 
 #### sobre:
-- 📡 Hoje estou como Administrador de Rede de um [ISP](www.quick.com.br).
-- ▶️ Venha conhecer nosso [canal no youtube](https://www.youtube.com/channel/UCNaWl0HNSmDk4fO8NQBii4Q)!
+- 📡 Hoje estou como Tech Lead de Observabilidade.
+- ▶️ Participei do [Quick Play](https://www.youtube.com/channel/UCNaWl0HNSmDk4fO8NQBii4Q)!
 - 👨‍💻 Amo programação e open-source!
-- 🤖 Atualmente aprendendo automação industrial.
+- 🤖 Atualmente cursando Eng. da Computação na [Univesp](https://univesp.br/).
 - 📝 Tentando dar um foco maior em documentação.
-- 🔥 Construí um bot Discord para nosso canal[QUICKPLAY-BOT](https://github.com/LucasRochaAbraao/quickplay_discord_bot)!
+- 🔥 Construí um bot Discord para o canal da [Quick Play](https://github.com/LucasRochaAbraao/quickplay_discord_bot)!
 - 🖧 Também construí uma lib SNMP para [OLTs Huawei](https://github.com/LucasRochaAbraao/Snmp)!
 
 
