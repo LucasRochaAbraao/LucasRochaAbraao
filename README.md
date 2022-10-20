@@ -1,16 +1,16 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="imagem de linguagens" /></p>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="languages image" /></p>
 
-#### sobre:
-- 📡 Hoje estou como Tech Lead de Observabilidade.
-- ▶️ Participei do [Quick Play](https://www.youtube.com/channel/UCNaWl0HNSmDk4fO8NQBii4Q)!
-- 👨‍💻 Amo programação e open-source!
-- 🤖 Atualmente cursando Eng. da Computação na [Univesp](https://univesp.br/).
-- 📝 Tentando dar um foco maior em documentação.
-- 🔥 Construí um bot Discord para o canal da [Quick Play](https://github.com/LucasRochaAbraao/quickplay_discord_bot)!
-- 🖧 Também construí uma lib SNMP para [OLTs Huawei](https://github.com/LucasRochaAbraao/Snmp)!
+#### About me:
+- 📡 I'm currently a software developer at [@ESSS](https://github.com/ESSS)!
+- ▶️ I was part of [Quick Play](https://www.youtube.com/channel/UCNaWl0HNSmDk4fO8NQBii4Q)
+- 🔥 I built a Discord bot for [Quick Play](https://github.com/LucasRochaAbraao/quickplay_discord_bot)!
+- 👨‍💻 I love programming and open-source!
+- 🤖 Currently enrolled at [Univesp](https://univesp.br/) studying Computer Engineering
+- 📝 Trying to focus a little more on documentation and testing
+- 🖧   Built an snmp lib for [Huawei OLTs](https://github.com/LucasRochaAbraao/Snmp), very useful when I was a network admin!
 
 
-## :trophy: Minha estatística no Github:
+## :trophy: My stats on Github:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasRochaAbraao&count_private=true&show_icons=true&hide_border=true&locale=pt-br&theme=tokyonight" />
@@ -20,4 +20,4 @@
   </a>
 </p>
 
-[![Gráfico de ativiades do perfil de Lucas](https://activity-graph.herokuapp.com/graph?username=LucasRochaAbraao&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucas's profile activity graph](https://activity-graph.herokuapp.com/graph?username=LucasRochaAbraao&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
