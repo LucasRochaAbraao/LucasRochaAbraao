@@ -1,12 +1,9 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="languages image" /></p>
 
 #### About me:
-- 📡 I'm currently a software developer at [@ESSS](https://github.com/ESSS)!
-- ▶️ I was part of [Quick Play](https://www.youtube.com/channel/UCNaWl0HNSmDk4fO8NQBii4Q)
 - 🔥 I built a Discord bot for [Quick Play](https://github.com/LucasRochaAbraao/quickplay_discord_bot)!
 - 👨‍💻 I love programming and open-source!
 - 🤖 Currently enrolled at [Univesp](https://univesp.br/) studying Computer Engineering
-- 📝 Trying to focus a little more on documentation and testing
 - 🖧   Built an snmp lib for [Huawei OLTs](https://github.com/LucasRochaAbraao/Snmp), very useful when I was a network admin!
 
 
